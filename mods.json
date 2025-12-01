@@ -1,764 +1,759 @@
-{
-  "mods": [
-    {
-      "filename": "advancednetherite-fabric-2.1.3-1.20.1.jar",
-      "name": "Advanced Netherite",
-      "url": "https://modrinth.com/mod/advancednetherite",
-      "version": "2.1.3-1.20.1",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "AmbientSounds_FABRIC_v6.1.11_mc1.20.1.jar",
-      "name": "AmbientSounds",
-      "url": "https://modrinth.com/mod/ambientsounds",
-      "version": "6.1.11",
-      "optional": "yes",
-      "impact": "medium"
-    },
-    {
-      "filename": "Amplified_Nether_1.21.x_v1.2.11.jar",
-      "name": "Amplified Nether",
-      "url": "https://modrinth.com/mod/amplified_nether",
-      "version": "1.2.12",
-      "optional": "no",
-      "impact": "high"
-    },
-    {
-      "filename": "animated-logo-1.2.jar",
-      "name": "Animated Mojang Logo",
-      "url": "https://modrinth.com/mod/animated-logo",
-      "version": "1.0",
-      "optional": "yes",
-      "impact": "low"
-    },
-    {
-      "filename": "architectury-9.2.14-fabric.jar",
-      "name": "Architectury",
-      "url": "https://modrinth.com/mod/architectury",
-      "version": "9.2.14",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "athena-fabric-1.20.1-3.1.2.jar",
-      "name": "Athena",
-      "url": "https://modrinth.com/mod/athena",
-      "version": "3.1.2",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "BadOptimizations-2.4.0-1.20.1.jar",
-      "name": "BadOptimizations",
-      "url": "https://modrinth.com/mod/badoptimizations/",
-      "version": "2.4.0",
-      "optional": "no",
-      "impact": "positive"
-    },
-    {
-      "filename": "bclib-3.0.14.jar",
-      "name": "BCLib",
-      "url": "https://modrinth.com/mod/bclib",
-      "version": "3.0.14",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "better-end-4.0.11.jar",
-      "name": "Better End",
-      "url": "https://modrinth.com/mod/betterend",
-      "version": "4.0.11",
-      "optional": "no",
-      "impact": "high"
-    },
-    {
-      "filename": "better-nether-9.0.10.jar",
-      "name": "Better Nether",
-      "url": "https://modrinth.com/mod/betternether",
-      "version": "9.0.10",
-      "optional": "no",
-      "impact": "high"
-    },
-    {
-      "filename": "BetterF3-7.0.2-Fabric-1.20.1.jar",
-      "name": "BetterF3",
-      "url": "https://modrinth.com/mod/betterf3",
-      "version": "7.0.2",
-      "optional": "yes",
-      "impact": "low"
-    },
-    {
-      "filename": "BiomesOPlenty-fabric-1.20.1-19.0.0.96.jar",
-      "name": "BiomesOPlenty",
-      "url": "https://modrinth.com/mod/biomesoplenty",
-      "version": "19.0.0.96",
-      "optional": "no",
-      "impact": "high"
-    },
-    {
-      "filename": "c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar",
-      "name": "Concurrent Chunk Management Engine",
-      "url": "https://modrinth.com/mod/c2me-fabric",
-      "version": "0.2.0+alpha.11.16",
-      "optional": "no",
-      "impact": "positive"
-    },
-    {
-      "filename": "chipped-fabric-1.20.1-3.0.7.jar",
-      "name": "Chipped",
-      "url": "https://modrinth.com/mod/chipped",
-      "version": "3.0.7",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "cloth-config-11.1.136-fabric.jar",
-      "name": "Cloth Config v11",
-      "url": "https://modrinth.com/mod/cloth-config",
-      "version": "11.1.136",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "Clumps-fabric-1.20.1-12.0.0.4.jar",
-      "name": "Clumps",
-      "url": "https://modrinth.com/mod/clumps",
-      "version": "12.0.0.4",
-      "optional": "no",
-      "impact": "positive"
-    },
-    {
-      "filename": "continuity-3.0.0+1.20.1.jar",
-      "name": "Continuity",
-      "url": "https://modrinth.com/mod/continuity",
-      "version": "3.0.0+1.20.1",
-      "optional": "yes",
-      "impact": "low"
-    },
-    {
-      "filename": "Corgilib-Fabric-1.20.1-4.0.3.4.jar",
-      "name": "CorgiLib",
-      "url": "https://modrinth.com/mod/corgilib",
-      "version": "4.0.3.4",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "create-fabric-6.0.8.0+build.1734-mc1.20.1.jar",
-      "name": "Create",
-      "url": "https://modrinth.com/mod/create",
-      "version": "6.0.8.0+build.1734-mc1.20.1",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "CreativeCore_FABRIC_v2.12.34_mc1.20.1.jar",
-      "name": "CreativeCore",
-      "url": "https://modrinth.com/mod/creativecore",
-      "version": "2.12.34",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "crittersandcompanions-fabric-1.20.1-2.3.5.jar",
-      "name": "Critters and Companions",
-      "url": "https://modrinth.com/mod/crittersandcompanions",
-      "version": "1.20.1-2.3.5",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "dawn-5.0.0.jar",
-      "name": "Dawn API",
-      "url": "https://modrinth.com/mod/dawn",
-      "version": "5.0.0",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "DistantHorizons-2.3.6-b-1.20.1-fabric-forge.jar",
-      "name": "Distant Horizons",
-      "url": "https://modrinth.com/mod/distanthorizons",
-      "version": "2.3.6-b",
-      "optional": "yes",
-      "impact": "variable"
-    },
-    {
-      "filename": "dungeons-and-taverns-3.0.3.f.jar",
-      "name": "Dungeons and Taverns",
-      "url": "https://modrinth.com/datapack/dungeons-and-taverns",
-      "version": "3.0.3.f",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "dungeonz-1.0.6.jar",
-      "name": "DungeonZ",
-      "url": "https://modrinth.com/mod/dungeonz",
-      "version": "1.0.6",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "entityculling-fabric-1.9.3-mc1.20.1.jar",
-      "name": "EntityCulling",
-      "url": "https://modrinth.com/mod/entityculling",
-      "version": "1.9.3",
-      "optional": "no",
-      "impact": "positive"
-    },
-    {
-      "filename": "EuphoriaPatcher-1.7.8-r5.6.1-fabric.jar",
-      "name": "Euphoria Patcher",
-      "url": "https://modrinth.com/mod/euphoria_patcher",
-      "version": "1.7.8-r5.6.1-fabric",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "expores-1.0.0+mc1.20.1.jar",
-      "name": "Exp Ores",
-      "url": "https://modrinth.com/mod/expores",
-      "version": "1.0.0+mc1.20.1",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "fabric-api-0.92.6+1.20.1.jar",
-      "name": "Fabric API",
-      "url": "https://modrinth.com/mod/fabric-api",
-      "version": "0.92.6+1.20.1",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar",
-      "name": "Fabric Language Kotlin",
-      "url": "https://modrinth.com/mod/fabric-language-kotlin",
-      "version": "1.13.7+kotlin.2.2.21",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "fast-ip-ping-v1.0.7-mc1.20.4-fabric.jar",
-      "name": "Fast IP Ping",
-      "url": "https://modrinth.com/mod/fast-ip-ping",
-      "version": "1.0.7",
-      "optional": "yes",
-      "impact": "low"
-    },
-    {
-      "filename": "ferritecore-6.0.1-fabric.jar",
-      "name": "FerriteCore",
-      "url": "https://modrinth.com/mod/ferritecore",
-      "version": "6.0.1",
-      "optional": "no",
-      "impact": "positive"
-    },
-    {
-      "filename": "forgottengraves-3.2.25+1.20.1.jar",
-      "name": "Forgotten Graves",
-      "url": "https://modrinth.com/mod/forgottengraves",
-      "version": "3.2.25+1.20.1",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "geckolib-fabric-1.20.1-4.8.2.jar",
-      "name": "GeckoLib 4",
-      "url": "https://modrinth.com/mod/geckolib",
-      "version": "4.8.2",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "GeckoLibIrisCompat-Fabric-1.0.0.jar",
-      "name": "GeckoLibIrisCompat",
-      "url": "https://modrinth.com/mod/geckoanimfix",
-      "version": "1.0.0",
-      "optional": "yes",
-      "impact": "low"
-    },
-    {
-      "filename": "GlitchCore-fabric-1.20.1-0.0.1.1.jar",
-      "name": "GlitchCore",
-      "url": "https://modrinth.com/mod/glitchcore",
-      "version": "0.0.1.1",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "ImmediatelyFast-Fabric-1.5.2+1.20.4.jar",
-      "name": "ImmediatelyFast",
-      "url": "https://modrinth.com/mod/immediatelyfast",
-      "version": "1.5.2+1.20.4",
-      "optional": "no",
-      "impact": "positive"
-    },
-    {
-      "filename": "Incendium_1.20.x_v5.3.5.jar",
-      "name": "Incendium",
-      "url": "https://modrinth.com/mod/incendium",
-      "version": "5.3.5",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "indium-1.0.36+mc1.20.1.jar",
-      "name": "Indium",
-      "url": "https://modrinth.com/mod/indium",
-      "version": "1.0.36+mc1.20.1",
-      "optional": "yes",
-      "impact": "low"
-    },
-    {
-      "filename": "iris-1.7.6+mc1.20.1.jar",
-      "name": "Iris",
-      "url": "https://modrinth.com/mod/iris",
-      "version": "1.7.6+mc1.20.1",
-      "optional": "yes",
-      "impact": "negative"
-    },
-    {
-      "filename": "Jade-1.20-Fabric-11.13.1.jar",
-      "name": "Jade",
-      "url": "https://modrinth.com/mod/jade",
-      "version": "11.13.1+fabric",
-      "optional": "yes",
-      "impact": "low"
-    },
-    {
-      "filename": "Jadens-Nether-Expansion-2.1.3-Fabric.jar",
-      "name": "Jaden's Nether Expansion",
-      "url": "https://modrinth.com/mod/netherexp",
-      "version": "2.1.3",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "lankasters-nether-1.1.0.jar",
-      "name": "Lankasters Nether",
-      "url": "https://modrinth.com/datapack/lankasters-nether",
-      "version": "1.1.0",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "lithium-fabric-mc1.20.1-0.11.4.jar",
-      "name": "Lithium",
-      "url": "https://modrinth.com/mod/lithium",
-      "version": "0.11.4",
-      "optional": "no",
-      "impact": "positive"
-    },
-    {
-      "filename": "lithostitched-fabric-1.20.1-1.4.11.jar",
-      "name": "Lithostitched",
-      "url": "https://modrinth.com/mod/lithostitched/",
-      "version": "1.4.11",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "memoryleakfix-fabric-1.17+-1.1.5.jar",
-      "name": "Memory Leak Fix",
-      "url": "https://modrinth.com/mod/memoryleakfix",
-      "version": "1.1.5",
-      "optional": "no",
-      "impact": "positive"
-    },
-    {
-      "filename": "modmanager-1.0.jar",
-      "name": "ModManager",
-      "url": "https://modrinth.com/mod/modmanager",
-      "version": "1.0",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "modmenu-7.2.2.jar",
-      "name": "Mod Menu",
-      "url": "https://modrinth.com/mod/modmenu",
-      "version": "7.2.2",
-      "optional": "yes",
-      "impact": "low"
-    },
-    {
-      "filename": "moreculling-1.20.4-0.24.0.jar",
-      "name": "More Culling",
-      "url": "https://modrinth.com/mod/moreculling",
-      "version": "1.20.4-0.24.0",
-      "optional": "no",
-      "impact": "positive"
-    },
-    {
-      "filename": "mysticsbiomes-fabric-1.20.1-3.4.3.jar",
-      "name": "Mystic's Biomes",
-      "url": "https://modrinth.com/mod/mysticsbiomes",
-      "version": "3.4.3",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "mythicupgrades-4.2.0+mc1.20.1.jar",
-      "name": "Mythic Upgrades",
-      "url": "https://modrinth.com/mod/mythicupgrades",
-      "version": "4.2.0+mc1.20.1",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "naturalist-5.0pre3+fabric-1.20.1.jar",
-      "name": "Naturalist",
-      "url": "https://modrinth.com/mod/naturalist",
-      "version": "5.0pre3",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "nbc-all-2.0-1.20+.jar",
-      "name": "Netherite But Cheaper",
-      "url": "https://modrinth.com/datapack/nbc",
-      "version": "1.0",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "nether-gold-ore-drops-raw-gold-1.2.jar",
-      "name": "Nether Gold Ore Drops Raw Gold",
-      "url": "https://modrinth.com/datapack/nether-gold-ore-drops-raw-gold",
-      "version": "1.2",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "netherandend-1.1.0.jar",
-      "name": "NetherAndEnd",
-      "url": "https://modrinth.com/mod/netherandend",
-      "version": "1.1.0",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "Nethers Trial-1.20.1.jar",
-      "name": "Nether's Trial 1.20.1",
-      "url": "https://modrinth.com/mod/nether_trial",
-      "version": "1.0.0",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "Oh-The-Biomes-Weve-Gone-Fabric-1.7.1.jar",
-      "name": "Oh The Biomes We've Gone",
-      "url": "https://modrinth.com/mod/biomeswevegone",
-      "version": "1.7.1",
-      "optional": "no",
-      "impact": "high"
-    },
-    {
-      "filename": "Oh-The-Trees-Youll-Grow-fabric-1.20.1-1.4.2.jar",
-      "name": "Oh The Trees You'll Grow",
-      "url": "https://modrinth.com/mod/ohthetreesyoullgrow",
-      "version": "1.4.2",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "owo-lib-0.11.2+1.20.jar",
-      "name": "oÏ‰o",
-      "url": "https://modrinth.com/mod/owo",
-      "version": "0.11.2+1.20",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "Patchouli-1.20.1-81-FABRIC.jar",
-      "name": "Patchouli",
-      "url": "https://modrinth.com/mod/patchouli",
-      "version": "1.20.1-81-FABRIC",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "placeholder-api-2.1.4+1.20.1.jar",
-      "name": "Placeholder API",
-      "url": "https://modrinth.com/mod/placeholder-api",
-      "version": "2.1.4+1.20.1",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar",
-      "name": "Reese's Sodium Options",
-      "url": "https://modrinth.com/mod/reeses-sodium-options",
-      "version": "1.7.2+mc1.20.1-build.101",
-      "optional": "yes",
-      "impact": "low"
-    },
-    {
-      "filename": "resourcefullib-fabric-1.20.1-2.1.29.jar",
-      "name": "Resourceful Lib",
-      "url": "https://modrinth.com/mod/resourcefullib",
-      "version": "2.1.29",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "silk-all-1.10.1.jar",
-      "name": "Silk (All modules)",
-      "url": "https://modrinth.com/mod/silk-all",
-      "version": "1.10.1",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "sodium-extra-0.5.9+mc1.20.1.jar",
-      "name": "Sodium Extra",
-      "url": "https://modrinth.com/mod/sodium-extra",
-      "version": "0.5.9+mc1.20.1",
-      "optional": "yes",
-      "impact": "variable"
-    },
-    {
-      "filename": "sodium-fabric-0.5.13+mc1.20.1.jar",
-      "name": "Sodium",
-      "url": "https://modrinth.com/mod/sodium",
-      "version": "0.5.13+mc1.20.1",
-      "optional": "no",
-      "impact": "positive"
-    },
-    {
-      "filename": "sound-physics-remastered-fabric-1.20.1-1.5.1.jar",
-      "name": "Sound Physics Remastered",
-      "url": "https://modrinth.com/mod/sound_physics_remastered",
-      "version": "1.20.1-1.5.1",
-      "optional": "yes",
-      "impact": "medium"
-    },
-    {
-      "filename": "spawn-1.0.3-fabric.jar",
-      "name": "Spawn",
-      "url": "https://modrinth.com/mod/spawn",
-      "version": "1.0.3-fabric",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "tectonic-3.0.17-fabric-1.20.1.jar",
-      "name": "Tectonic",
-      "url": "https://modrinth.com/project/tectonic",
-      "version": "3.0.17",
-      "optional": "no",
-      "impact": "high"
-    },
-    {
-      "filename": "TerraBlender-fabric-1.20.1-3.0.1.10.jar",
-      "name": "TerraBlender",
-      "url": "https://modrinth.com/mod/terrablender",
-      "version": "3.0.1.10",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "Terralith_1.20.x_v2.5.4.jar",
-      "name": "Terralith",
-      "url": "https://modrinth.com/mod/terralith",
-      "version": "2.5.4",
-      "optional": "no",
-      "impact": "high"
-    },
-    {
-      "filename": "threatengl-fabric-2.0.4-release.10.jar",
-      "name": "ThreatenGL",
-      "url": "https://modrinth.com/mod/threatengl",
-      "version": "2.0.4-release.10",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "trimeffects-fabric-mc1.20-2.1.2.jar",
-      "name": "TrimsEffects",
-      "url": "https://modrinth.com/mod/trimeffects",
-      "version": "2.1.2",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "universal_ores-1.5.2.jar",
-      "name": "Universal Ores",
-      "url": "https://modrinth.com/mod/universal_ores",
-      "version": "1.5.2",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar",
-      "name": "Very Many Players",
-      "url": "https://modrinth.com/mod/vmp",
-      "version": "0.2.0+beta.7.102",
-      "optional": "no",
-      "impact": "positive"
-    },
-    {
-      "filename": "voicechat-fabric-1.20.1-2.6.6.jar",
-      "name": "Simple Voice Chat",
-      "url": "https://modrinth.com/mod/voicechat",
-      "version": "1.20.1-2.6.6",
-      "optional": "yes",
-      "impact": "medium"
-    },
-    {
-      "filename": "wildlife-1.20.1-2.2.jar",
-      "name": "Wildlife",
-      "url": "https://modrinth.com/mod/wildlife",
-      "version": "1.19.2-2.2",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "XaerosWorldMap_1.39.12_Fabric_1.20.jar",
-      "name": "Xaero's World Map",
-      "url": "https://modrinth.com/mod/xaeroworldmap",
-      "version": "1.39.12",
-      "optional": "yes",
-      "impact": "low"
-    },
-    {
-      "filename": "Xaeros_Minimap_25.2.10_Fabric_1.20.jar",
-      "name": "Xaero's Minimap",
-      "url": "https://modrinth.com/mod/xaerominimap",
-      "version": "25.2.10",
-      "optional": "yes",
-      "impact": "low"
-    },
-    {
-      "filename": "yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
-      "name": "YetAnotherConfigLib",
-      "url": "https://modrinth.com/mod/yet_another_config_lib_v3",
-      "version": "3.6.6+1.20.1-fabric",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "YungsApi-1.20-Fabric-4.0.6.jar",
-      "name": "YUNG's API",
-      "url": "https://modrinth.com/mod/yungsapi",
-      "version": "1.20-Fabric-4.0.6",
-      "optional": "no",
-      "impact": "low"
-    },
-    {
-      "filename": "YungsBetterCaves-1.20.1-Fabric-2.0.5.jar",
-      "name": "YUNG's Better Caves",
-      "url": "https://modrinth.com/mod/bettercaves",
-      "version": "1.20.1-Fabric-2.0.5",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
-      "name": "YUNG's Better Desert Temples",
-      "url": "https://modrinth.com/mod/betterdeserttemples",
-      "version": "1.20-Fabric-3.0.3",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "YungsBetterDungeons-1.20-Fabric-4.0.4.jar",
-      "name": "YUNG's Better Dungeons",
-      "url": "https://modrinth.com/mod/betterdungeons",
-      "version": "1.20-Fabric-4.0.4",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar",
-      "name": "YUNG's Better Jungle Temples",
-      "url": "https://modrinth.com/mod/betterjungletemples",
-      "version": "1.20-Fabric-2.0.5",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "YungsBetterMineshafts-1.20-Fabric-4.0.4.jar",
-      "name": "YUNG's Better Mineshafts",
-      "url": "https://modrinth.com/mod/bettermineshafts",
-      "version": "1.20-Fabric-4.0.4",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar",
-      "name": "YUNG's Better Nether Fortresses",
-      "url": "https://modrinth.com/mod/betterfortresses",
-      "version": "1.20-Fabric-2.0.6",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar",
-      "name": "YUNG's Better Ocean Monuments",
-      "url": "https://modrinth.com/mod/betteroceanmonuments",
-      "version": "1.20-Fabric-3.0.4",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
-      "name": "YUNG's Better Strongholds",
-      "url": "https://modrinth.com/mod/betterstrongholds",
-      "version": "1.20-Fabric-4.0.3",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
-      "name": "YUNG's Better Witch Huts",
-      "url": "https://modrinth.com/mod/betterwitchhuts",
-      "version": "1.20-Fabric-3.0.3",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "YungsBridges-1.20-Fabric-4.0.3.jar",
-      "name": "YUNG's Bridges",
-      "url": "https://modrinth.com/mod/yungsbridges",
-      "version": "1.20-Fabric-4.0.3",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "YungsCaveBiomes-1.20.1-Fabric-2.0.5.jar",
-      "name": "YUNG's Cave Biomes",
-      "url": "https://modrinth.com/mod/yungscavebiomes",
-      "version": "1.20.1-Fabric-2.0.5",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "YungsExtras-1.20-Fabric-4.0.3.jar",
-      "name": "YUNG's Extras",
-      "url": "https://modrinth.com/mod/yungsextras",
-      "version": "1.20-Fabric-4.0.3",
-      "optional": "no",
-      "impact": "medium"
-    },
-    {
-      "filename": "Zoomify-2.14.6+1.20.1.jar",
-      "name": "Zoomify",
-      "url": "https://modrinth.com/mod/zoomify",
-      "version": "2.14.6+1.20.1",
-      "optional": "yes",
-      "impact": "low"
-    },
-    {
-      "filename": "[fabric]ctov-3.4.14.jar",
-      "name": "ChoiceTheorem's Overhauled Village",
-      "url": "https://modrinth.com/mod/ctov",
-      "version": "3.4.14",
-      "optional": "no",
-      "impact": "medium"
-    }
-  ]
-}
+[
+  {
+    "filename": "advancednetherite-fabric-2.1.3-1.20.1.jar",
+    "name": "Advanced Netherite",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/advanced-netherite-fabric",
+    "version": "2.1.3-1.20.1",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "AmbientSounds_FABRIC_v6.1.11_mc1.20.1.jar",
+    "name": "AmbientSounds",
+    "url": "https://modrinth.com/mod/fM515JnW",
+    "version": "6.1.11",
+    "optional": "yes",
+    "impact": "medium"
+  },
+  {
+    "filename": "Amplified_Nether_1.21.x_v1.2.11.jar",
+    "name": "Amplified Nether",
+    "url": "https://modrinth.com/mod/wXiGiyGX",
+    "version": "1.2.12",
+    "optional": "no",
+    "impact": "high"
+  },
+  {
+    "filename": "animated-logo-1.2.jar",
+    "name": "Animated Mojang Logo",
+    "url": "https://modrinth.com/mod/cGHt9WgV",
+    "version": "1.0",
+    "optional": "yes",
+    "impact": "low"
+  },
+  {
+    "filename": "architectury-9.2.14-fabric.jar",
+    "name": "Architectury",
+    "url": "https://modrinth.com/mod/lhGA9TYQ",
+    "version": "9.2.14",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "athena-fabric-1.20.1-3.1.2.jar",
+    "name": "Athena",
+    "url": "https://modrinth.com/mod/b1ZV3DIJ",
+    "version": "3.1.2",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "bclib-3.0.14.jar",
+    "name": "BCLib",
+    "url": "https://modrinth.com/mod/BgNRHReB",
+    "version": "3.0.14",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "BadOptimizations-2.4.0-1.20.1.jar",
+    "name": "BadOptimizations",
+    "url": "https://modrinth.com/mod/g96Z4WVZ",
+    "version": "2.4.0",
+    "optional": "no",
+    "impact": "positive"
+  },
+  {
+    "filename": "better-end-4.0.11.jar",
+    "name": "Better End",
+    "url": "https://modrinth.com/mod/gc8OEnCC",
+    "version": "4.0.11",
+    "optional": "no",
+    "impact": "high"
+  },
+  {
+    "filename": "better-nether-9.0.10.jar",
+    "name": "Better Nether",
+    "url": "https://modrinth.com/mod/MpzVLzy5",
+    "version": "9.0.10",
+    "optional": "no",
+    "impact": "high"
+  },
+  {
+    "filename": "BetterF3-7.0.2-Fabric-1.20.1.jar",
+    "name": "BetterF3",
+    "url": "https://modrinth.com/mod/8shC1gFX",
+    "version": "7.0.2",
+    "optional": "yes",
+    "impact": "low"
+  },
+  {
+    "filename": "BiomesOPlenty-fabric-1.20.1-19.0.0.96.jar",
+    "name": "BiomesOPlenty",
+    "url": "https://modrinth.com/mod/HXF82T3G",
+    "version": "19.0.0.96",
+    "optional": "no",
+    "impact": "high"
+  },
+  {
+    "filename": "chipped-fabric-1.20.1-3.0.7.jar",
+    "name": "Chipped",
+    "url": "https://modrinth.com/mod/BAscRYKm",
+    "version": "3.0.7",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "[fabric]ctov-3.4.14.jar",
+    "name": "ChoiceTheorem's Overhauled Village",
+    "url": "https://modrinth.com/mod/fgmhI8kH",
+    "version": "3.4.14",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "cloth-config-11.1.136-fabric.jar",
+    "name": "Cloth Config v11",
+    "url": "https://modrinth.com/mod/9s6osm5g",
+    "version": "11.1.136",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "Clumps-fabric-1.20.1-12.0.0.4.jar",
+    "name": "Clumps",
+    "url": "https://modrinth.com/mod/Wnxd13zP",
+    "version": "12.0.0.4",
+    "optional": "no",
+    "impact": "positive"
+  },
+  {
+    "filename": "c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar",
+    "name": "Concurrent Chunk Management Engine",
+    "url": "https://modrinth.com/mod/VSNURh3q",
+    "version": "0.2.0+alpha.11.16",
+    "optional": "no",
+    "impact": "positive"
+  },
+  {
+    "filename": "continuity-3.0.0+1.20.1.jar",
+    "name": "Continuity",
+    "url": "https://modrinth.com/mod/1IjD5062",
+    "version": "3.0.0+1.20.1",
+    "optional": "yes",
+    "impact": "low"
+  },
+  {
+    "filename": "Corgilib-Fabric-1.20.1-4.0.3.4.jar",
+    "name": "CorgiLib",
+    "url": "https://modrinth.com/mod/ziOp6EO8",
+    "version": "4.0.3.4",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "create-fabric-6.0.8.0+build.1734-mc1.20.1.jar",
+    "name": "Create",
+    "url": "https://modrinth.com/mod/Xbc0uyRg",
+    "version": "6.0.8.0+build.1734-mc1.20.1",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "CreativeCore_FABRIC_v2.12.34_mc1.20.1.jar",
+    "name": "CreativeCore",
+    "url": "https://modrinth.com/mod/OsZiaDHq",
+    "version": "2.12.34",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "crittersandcompanions-fabric-1.20.1-2.3.5.jar",
+    "name": "Critters and Companions",
+    "version": "1.20.1-2.3.5",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "dawn-5.0.0.jar",
+    "name": "Dawn API",
+    "url": "https://modrinth.com/mod/meZK2DCX",
+    "version": "5.0.0",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "DistantHorizons-2.3.6-b-1.20.1-fabric-forge.jar",
+    "name": "Distant Horizons",
+    "url": "https://modrinth.com/mod/uCdwusMi",
+    "version": "2.3.6-b",
+    "optional": "yes",
+    "impact": "variable"
+  },
+  {
+    "filename": "dungeonz-1.0.6.jar",
+    "name": "DungeonZ",
+    "url": "https://modrinth.com/mod/11jwniuC",
+    "version": "1.0.6",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "dungeons-and-taverns-3.0.3.f.jar",
+    "name": "Dungeons and Taverns",
+    "url": "https://modrinth.com/mod/tpehi7ww",
+    "version": "3.0.3.f",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "entityculling-fabric-1.9.3-mc1.20.1.jar",
+    "name": "EntityCulling",
+    "url": "https://modrinth.com/mod/NNAgCjsB",
+    "version": "1.9.3",
+    "optional": "no",
+    "impact": "positive"
+  },
+  {
+    "filename": "EuphoriaPatcher-1.7.8-r5.6.1-fabric.jar",
+    "name": "Euphoria Patcher",
+    "url": "https://modrinth.com/mod/4H6sumDB",
+    "version": "1.7.8-r5.6.1-neoforge",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "expores-1.0.0+mc1.20.1.jar",
+    "name": "Exp Ores",
+    "url": "https://modrinth.com/mod/a8H99agr",
+    "version": "1.0.0+mc1.20.1",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "fabric-api-0.92.6+1.20.1.jar",
+    "name": "Fabric API",
+    "url": "https://modrinth.com/mod/P7dR8mSH",
+    "version": "0.92.6+1.20.1",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar",
+    "name": "Fabric Language Kotlin",
+    "url": "https://modrinth.com/mod/Ha28R6CL",
+    "version": "1.13.7+kotlin.2.2.21",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "fast-ip-ping-v1.0.7-mc1.20.4-fabric.jar",
+    "name": "Fast IP Ping",
+    "url": "https://modrinth.com/mod/9mtu0sUO",
+    "version": "1.0.7",
+    "optional": "yes",
+    "impact": "low"
+  },
+  {
+    "filename": "ferritecore-6.0.1-fabric.jar",
+    "name": "FerriteCore",
+    "url": "https://modrinth.com/mod/uXXizFIs",
+    "version": "6.0.1",
+    "optional": "no",
+    "impact": "positive"
+  },
+  {
+    "filename": "forgottengraves-3.2.25+1.20.1.jar",
+    "name": "Forgotten Graves",
+    "url": "https://modrinth.com/mod/FrZIkosK",
+    "version": "3.2.25+1.20.1",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "geckolib-fabric-1.20.1-4.8.2.jar",
+    "name": "GeckoLib 4",
+    "url": "https://modrinth.com/mod/8BmcQJ2H",
+    "version": "4.8.2",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "GeckoLibIrisCompat-Fabric-1.0.0.jar",
+    "name": "GeckoLibIrisCompat",
+    "url": "https://modrinth.com/mod/TbriQCWD",
+    "version": "1.0.0",
+    "optional": "yes",
+    "impact": "low"
+  },
+  {
+    "filename": "GlitchCore-fabric-1.20.1-0.0.1.1.jar",
+    "name": "GlitchCore",
+    "url": "https://modrinth.com/mod/s3dmwKy5",
+    "version": "0.0.1.1",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "ImmediatelyFast-Fabric-1.5.2+1.20.4.jar",
+    "name": "ImmediatelyFast",
+    "url": "https://modrinth.com/mod/5ZwdcRci",
+    "version": "1.5.2+1.20.4",
+    "optional": "no",
+    "impact": "positive"
+  },
+  {
+    "filename": "Incendium_1.20.x_v5.3.5.jar",
+    "name": "Incendium",
+    "url": "https://modrinth.com/mod/ZVzW5oNS",
+    "version": "5.3.5",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "indium-1.0.36+mc1.20.1.jar",
+    "name": "Indium",
+    "url": "https://modrinth.com/mod/Orvt0mRa",
+    "version": "1.0.36+mc1.20.1",
+    "optional": "yes",
+    "impact": "low"
+  },
+  {
+    "filename": "iris-1.7.6+mc1.20.1.jar",
+    "name": "Iris",
+    "url": "https://modrinth.com/mod/YL57xq9U",
+    "version": "1.7.6+mc1.20.1",
+    "optional": "yes",
+    "impact": "negative"
+  },
+  {
+    "filename": "Jade-1.20-Fabric-11.13.1.jar",
+    "name": "Jade",
+    "url": "https://modrinth.com/mod/nvQzSEkH",
+    "version": "11.13.1+fabric",
+    "optional": "yes",
+    "impact": "low"
+  },
+  {
+    "filename": "Jadens-Nether-Expansion-2.1.3-Fabric.jar",
+    "name": "Jaden's Nether Expansion",
+    "url": "https://modrinth.com/mod/v3UlehfS",
+    "version": "2.1.3",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "lankasters-nether-1.1.0.jar",
+    "name": "Lankasters Nether",
+    "url": "https://modrinth.com/mod/xE07xARe",
+    "version": "1.1.0",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "lithium-fabric-mc1.20.1-0.11.4.jar",
+    "name": "Lithium",
+    "url": "https://modrinth.com/mod/gvQqBUqZ",
+    "version": "0.11.4",
+    "optional": "no",
+    "impact": "positive"
+  },
+  {
+    "filename": "lithostitched-fabric-1.20.1-1.4.11.jar",
+    "name": "Lithostitched",
+    "url": "https://modrinth.com/mod/XaDC71GB",
+    "version": "1.4.11",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "memoryleakfix-fabric-1.17+-1.1.5.jar",
+    "name": "Memory Leak Fix",
+    "url": "https://modrinth.com/mod/NRjRiSSD",
+    "version": "1.1.5",
+    "optional": "no",
+    "impact": "positive"
+  },
+  {
+    "filename": "modmenu-7.2.2.jar",
+    "name": "Mod Menu",
+    "url": "https://modrinth.com/mod/mOgUt4GM",
+    "version": "7.2.2",
+    "optional": "yes",
+    "impact": "low"
+  },
+  {
+    "filename": "modmanager-1.0.jar",
+    "name": "ModManager",
+    "version": "1.0",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "moreculling-1.20.4-0.24.0.jar",
+    "name": "More Culling",
+    "url": "https://modrinth.com/mod/51shyZVL",
+    "version": "1.20.4-0.24.0",
+    "optional": "no",
+    "impact": "positive"
+  },
+  {
+    "filename": "mysticsbiomes-fabric-1.20.1-3.4.3.jar",
+    "name": "Mystic's Biomes",
+    "url": "https://modrinth.com/mod/kUpOjknA",
+    "version": "3.4.3",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "mythicupgrades-4.2.0+mc1.20.1.jar",
+    "name": "Mythic Upgrades",
+    "url": "https://modrinth.com/mod/ERH7cFoy",
+    "version": "4.2.0+mc1.20.1",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "naturalist-5.0pre3+fabric-1.20.1.jar",
+    "name": "Naturalist",
+    "url": "https://modrinth.com/mod/F8BQNPWX",
+    "version": "5.0pre3",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "nether-gold-ore-drops-raw-gold-1.2.jar",
+    "name": "Nether Gold Ore Drops Raw Gold",
+    "url": "https://modrinth.com/mod/57KDkTen",
+    "version": "1.2",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "Nethers Trial-1.20.1.jar",
+    "name": "Nether's Trial 1.20.1",
+    "url": "https://modrinth.com/mod/XxhXtild",
+    "version": "1.0.0",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "netherandend-1.1.0.jar",
+    "name": "NetherAndEnd",
+    "url": "https://modrinth.com/mod/FhW0n39r",
+    "version": "1.1.0",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "nbc-all-2.0-1.20+.jar",
+    "name": "Netherite But Cheaper",
+    "url": "https://modrinth.com/mod/hQNz0rXp",
+    "version": "1.0",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "Oh-The-Biomes-Weve-Gone-Fabric-1.7.1.jar",
+    "name": "Oh The Biomes We've Gone",
+    "url": "https://modrinth.com/mod/NTi7d3Xc",
+    "version": "1.7.1",
+    "optional": "no",
+    "impact": "high"
+  },
+  {
+    "filename": "Oh-The-Trees-Youll-Grow-fabric-1.20.1-1.4.2.jar",
+    "name": "Oh The Trees You'll Grow",
+    "url": "https://modrinth.com/mod/g8NOG5OR",
+    "version": "1.4.2",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "Patchouli-1.20.1-81-FABRIC.jar",
+    "name": "Patchouli",
+    "url": "https://modrinth.com/mod/nU0bVIaL",
+    "version": "1.20.1-81-FABRIC",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "placeholder-api-2.1.4+1.20.1.jar",
+    "name": "Placeholder API",
+    "url": "https://modrinth.com/mod/eXts2L7r",
+    "version": "2.1.4+1.20.1",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar",
+    "name": "Reese's Sodium Options",
+    "url": "https://modrinth.com/mod/Bh37bMuy",
+    "version": "1.7.2+mc1.20.1-build.101",
+    "optional": "yes",
+    "impact": "low"
+  },
+  {
+    "filename": "resourcefullib-fabric-1.20.1-2.1.29.jar",
+    "name": "Resourceful Lib",
+    "url": "https://modrinth.com/mod/G1hIVOrD",
+    "version": "2.1.29",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "silk-all-1.10.1.jar",
+    "name": "Silk (All modules)",
+    "url": "https://modrinth.com/mod/aTaCgKLW",
+    "version": "1.10.1",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "voicechat-fabric-1.20.1-2.6.6.jar",
+    "name": "Simple Voice Chat",
+    "url": "https://modrinth.com/mod/9eGKb6K1",
+    "version": "1.20.1-2.6.6",
+    "optional": "yes",
+    "impact": "medium"
+  },
+  {
+    "filename": "sodium-fabric-0.5.13+mc1.20.1.jar",
+    "name": "Sodium",
+    "url": "https://modrinth.com/mod/AANobbMI",
+    "version": "0.5.13+mc1.20.1",
+    "optional": "no",
+    "impact": "positive"
+  },
+  {
+    "filename": "sodium-extra-0.5.9+mc1.20.1.jar",
+    "name": "Sodium Extra",
+    "url": "https://modrinth.com/mod/PtjYWJkn",
+    "version": "0.5.9+mc1.20.1",
+    "optional": "yes",
+    "impact": "variable"
+  },
+  {
+    "filename": "sound-physics-remastered-fabric-1.20.1-1.5.1.jar",
+    "name": "Sound Physics Remastered",
+    "url": "https://modrinth.com/mod/qyVF9oeo",
+    "version": "1.20.1-1.5.1",
+    "optional": "yes",
+    "impact": "medium"
+  },
+  {
+    "filename": "spawn-1.0.3-fabric.jar",
+    "name": "Spawn",
+    "url": "https://modrinth.com/mod/rex9wwpz",
+    "version": "1.0.3-fabric",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "tectonic-3.0.17-fabric-1.20.1.jar",
+    "name": "Tectonic",
+    "url": "https://modrinth.com/mod/lWDHr9jE",
+    "version": "3.0.17",
+    "optional": "no",
+    "impact": "high"
+  },
+  {
+    "filename": "TerraBlender-fabric-1.20.1-3.0.1.10.jar",
+    "name": "TerraBlender",
+    "url": "https://modrinth.com/mod/kkmrDlKT",
+    "version": "3.0.1.10",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "Terralith_1.20.x_v2.5.4.jar",
+    "name": "Terralith",
+    "url": "https://modrinth.com/mod/8oi3bsk5",
+    "version": "2.5.4",
+    "optional": "no",
+    "impact": "high"
+  },
+  {
+    "filename": "threatengl-fabric-2.0.4-release.10.jar",
+    "name": "ThreatenGL",
+    "url": "https://modrinth.com/mod/RSFrpoou",
+    "version": "2.0.4-release.10",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "trimeffects-fabric-mc1.20-2.1.2.jar",
+    "name": "TrimsEffects",
+    "version": "2.1.2",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "universal_ores-1.5.2.jar",
+    "name": "Universal Ores",
+    "url": "https://modrinth.com/mod/68kWHuUF",
+    "version": "1.5.2",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar",
+    "name": "Very Many Players",
+    "url": "https://modrinth.com/mod/wnEe9KBa",
+    "version": "0.2.0+beta.7.102",
+    "optional": "no",
+    "impact": "positive"
+  },
+  {
+    "filename": "wildlife-1.20.1-2.2.jar",
+    "name": "Wildlife",
+    "url": "https://modrinth.com/mod/gkVIACVj",
+    "version": "1.19.2-2.2",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "Xaeros_Minimap_25.2.10_Fabric_1.20.jar",
+    "name": "Xaero's Minimap",
+    "url": "https://modrinth.com/mod/1bokaNcj",
+    "version": "25.2.10",
+    "optional": "yes",
+    "impact": "low"
+  },
+  {
+    "filename": "XaerosWorldMap_1.39.12_Fabric_1.20.jar",
+    "name": "Xaero's World Map",
+    "url": "https://modrinth.com/mod/NcUtCpym",
+    "version": "1.39.12",
+    "optional": "yes",
+    "impact": "low"
+  },
+  {
+    "filename": "YungsApi-1.20-Fabric-4.0.6.jar",
+    "name": "YUNG's API",
+    "url": "https://modrinth.com/mod/Ua7DFN59",
+    "version": "1.20-Fabric-4.0.6",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "YungsBetterCaves-1.20.1-Fabric-2.0.5.jar",
+    "name": "YUNG's Better Caves",
+    "url": "https://modrinth.com/mod/Dfu00ggU",
+    "version": "1.20.1-Fabric-2.0.5",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
+    "name": "YUNG's Better Desert Temples",
+    "url": "https://modrinth.com/mod/XNlO7sBv",
+    "version": "1.20-Fabric-3.0.3",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "YungsBetterDungeons-1.20-Fabric-4.0.4.jar",
+    "name": "YUNG's Better Dungeons",
+    "url": "https://modrinth.com/mod/o1C1Dkj5",
+    "version": "1.20-Fabric-4.0.4",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar",
+    "name": "YUNG's Better Jungle Temples",
+    "url": "https://modrinth.com/mod/z9Ve58Ih",
+    "version": "1.20-Fabric-2.0.5",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "YungsBetterMineshafts-1.20-Fabric-4.0.4.jar",
+    "name": "YUNG's Better Mineshafts",
+    "url": "https://modrinth.com/mod/HjmxVlSr",
+    "version": "1.20-Fabric-4.0.4",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar",
+    "name": "YUNG's Better Nether Fortresses",
+    "url": "https://modrinth.com/mod/Z2mXHnxP",
+    "version": "1.20-Fabric-2.0.6",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar",
+    "name": "YUNG's Better Ocean Monuments",
+    "url": "https://modrinth.com/mod/3dT9sgt4",
+    "version": "1.20-Fabric-3.0.4",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
+    "name": "YUNG's Better Strongholds",
+    "url": "https://modrinth.com/mod/kidLKymU",
+    "version": "1.20-Fabric-4.0.3",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
+    "name": "YUNG's Better Witch Huts",
+    "url": "https://modrinth.com/mod/t5FRdP87",
+    "version": "1.20-Fabric-3.0.3",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "YungsBridges-1.20-Fabric-4.0.3.jar",
+    "name": "YUNG's Bridges",
+    "url": "https://modrinth.com/mod/Ht4BfYp6",
+    "version": "1.20-Fabric-4.0.3",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "YungsCaveBiomes-1.20.1-Fabric-2.0.5.jar",
+    "name": "YUNG's Cave Biomes",
+    "url": "https://modrinth.com/mod/cs7iGVq1",
+    "version": "1.20.1-Fabric-2.0.5",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "YungsExtras-1.20-Fabric-4.0.3.jar",
+    "name": "YUNG's Extras",
+    "url": "https://modrinth.com/mod/ZYgyPyfq",
+    "version": "1.20-Fabric-4.0.3",
+    "optional": "no",
+    "impact": "medium"
+  },
+  {
+    "filename": "yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
+    "name": "YetAnotherConfigLib",
+    "url": "https://modrinth.com/mod/1eAoo2KR",
+    "version": "3.6.6+1.20.1-fabric",
+    "optional": "no",
+    "impact": "low"
+  },
+  {
+    "filename": "Zoomify-2.14.6+1.20.1.jar",
+    "name": "Zoomify",
+    "url": "https://modrinth.com/mod/w7ThoJFB",
+    "version": "2.14.6+1.20.1",
+    "optional": "yes",
+    "impact": "low"
+  },
+  {
+    "filename": "owo-lib-0.11.2+1.20.jar",
+    "name": "oωo",
+    "url": "https://modrinth.com/mod/ccKDOlHs",
+    "version": "0.11.2+1.20",
+    "optional": "no",
+    "impact": "low"
+  }
+]
