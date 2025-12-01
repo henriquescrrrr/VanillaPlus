@@ -2,7 +2,7 @@
   {
     "filename": "advancednetherite-fabric-2.1.3-1.20.1.jar",
     "name": "Advanced Netherite",
-    "url": "https://www.curseforge.com/minecraft/mc-mods/advanced-netherite-fabric",
+    "url": "https://cdn.modrinth.com/data/CFX9ftUJ/versions/KLFf6PpA/advancednetherite-fabric-2.1.3-1.20.1.jar",
     "version": "2.1.3-1.20.1",
     "optional": "no",
     "impact": "low"
@@ -170,6 +170,7 @@
   {
     "filename": "crittersandcompanions-fabric-1.20.1-2.3.5.jar",
     "name": "Critters and Companions",
+    "url": "https://cdn.modrinth.com/data/Yd4wb5wZ/versions/Nd89kCPQ/crittersandcompanions-fabric-1.20.1-2.3.5.jar",
     "version": "1.20.1-2.3.5",
     "optional": "no",
     "impact": "medium"
@@ -584,6 +585,7 @@
   {
     "filename": "trimeffects-fabric-mc1.20-2.1.2.jar",
     "name": "TrimsEffects",
+    "url": "https://cdn.modrinth.com/data/BL7ADJ7w/versions/zH9nZIu1/trimeffects-fabric-mc1.20-2.1.2.jar"
     "version": "2.1.2",
     "optional": "no",
     "impact": "low"
