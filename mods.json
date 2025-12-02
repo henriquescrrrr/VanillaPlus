@@ -473,8 +473,8 @@
   {
     "filename": "Patchouli-1.20.1-81-FABRIC.jar",
     "name": "Patchouli",
-    "url": "https://modrinth.com/mod/nU0bVIaL",
-    "version": "1.20.1-81-FABRIC",
+    "url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/tzz6fEoj/Patchouli-1.20.1-81-FABRIC.jar",
+    "version": "1.20.1-81-fabric",
     "optional": "no",
     "impact": "low"
   },
